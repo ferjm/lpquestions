@@ -178,7 +178,6 @@ function setup() {
 }
 
 window.onload = () => {
-    console.log("ONLOAD");
     pickQuestion();
 };
 
